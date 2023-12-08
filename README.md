@@ -1,4 +1,4 @@
-![PicsArt_09-25-03 31 15](https://user-images.githubusercontent.com/83058594/134767639-20160849-e422-48a6-957e-f75bc746eb4a.jpg)
+
 - I'm 😎Sumit Kumar Sinha😎.
 - Frontend Web Development & Programming are areas of my interest.
 - Open for Collabrations in Frontend Web Development.
